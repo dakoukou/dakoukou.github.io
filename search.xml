@@ -4,6 +4,15 @@
     
     <entry>
       <title></title>
+      <link href="/2018/08/21/ssm/"/>
+      <url>/2018/08/21/ssm/</url>
+      <content type="html"><![CDATA[<hr><hr><hr><p>title: postName #文章页面上的显示名称，一般是中文<br>date: 2013-12-02 15:30:16 #文章生成时间，一般不改，当然也可以任意修改<br>categories: java #分类<br>tags: [ssm,tag2,tag3] #文章标签，可空，多标签请用格式，注意:后面有个空格</p><p>description: 附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面</p><hr><p>sssssssssssssadasdasd</p><p>asdasd</p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title></title>
       <link href="/2018/08/17/about/"/>
       <url>/2018/08/17/about/</url>
       <content type="html"><![CDATA[]]></content>
